@@ -1,2 +1,1 @@
-# odin-recipes
-First project from The Odin Project
+Forgot to add this file somehow <smh>
